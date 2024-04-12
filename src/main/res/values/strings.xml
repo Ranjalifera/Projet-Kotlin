@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">TenaIzy</string>
+    <string name="calculate_tip">Calculate Tip</string>
+    <string name="bill_amount">Bill Amount</string>
+    <string name="tip_amount">Tip Amount: %s</string>
+    <string name="date">Date</string>
+    <string name="format_date">jj-mm-aa</string>
+    <string name="heure">Heure</string>
+    <string name="format_heure">hh:mm</string>
+    <string name="nom_event">Nom de l\'évènement</string>
+    <string name="event">Evènement</string>
+    <string name="participants">Participants</string>
+    <string name="membres">Membres</string>
+    <string name="lieu">Lieu</string>
+    <string name="adresse">Adresse</string>
+    <string name="descri">Description</string>
+    <string name="resume">Résumé</string>
+    <string name="theme">Catégorie</string>
+    <string name="type">Type</string>
+    <string name="sport">Sport</string>
+    <string name="conf">Conférence</string>
+    <string name="minipr">Mini-projet</string>
+    <string name="algo">Algo Contest</string>
+    <string name="jardinage">Jardinage</string>
+    <string name="recep">Réception</string>
+    <string name="slogan">La fierté d\'appartenance vient du coeur</string>
+    <string name="accueil">Passer</string>
+    <string name="semaine">Semaine des TCO</string>
+</resources>
